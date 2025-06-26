@@ -1,4 +1,4 @@
-stream lit
+Streamlit
 scikit-learn
 pandas
 matplotlib

@@ -1,6 +1,8 @@
 Streamlit
 scikit-learn
 pandas
+seaborn
+
 
 
 
